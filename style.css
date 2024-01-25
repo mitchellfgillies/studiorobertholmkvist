@@ -106,6 +106,7 @@ a { color: #ffffff;
         display: none;
     }
     main {
+      position: fixed;
       height: 100%;
       display: grid;
       grid-template-columns: 1fr 1fr;
